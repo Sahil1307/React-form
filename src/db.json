@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "asse@ff.com",
+      "password": "sha1$82e8909d$1$61157c92c6ec30f2acfcdc04f715573bf7e3de29",
+      "confirmPassword": "sha1$642cae71$1$a9b6b9159d8c005af8bd6d5502ee31e7df714bad",
+      "contactNumber": "1234567890",
+      "id": 1
+    },
+    {
+      "email": "ws@gm.co",
+      "password": "sha1$712f3e27$1$60cbef1f286c7769b167711bb704268874ce14dd",
+      "confirmPassword": "sha1$1d94dac9$1$202cc8c2a38f4e5217ca179555a5958437bf36d0",
+      "contactNumber": "1234567890",
+      "id": 2
+    },
+    {
+      "email": "ssds@fff.com",
+      "password": "sha1$a2cfc72d$1$689028663602a6e5fd4d1a736e4222f196cd0a1e",
+      "confirmPassword": "sha1$c0367a62$1$f83cd9f2249e7c9ec176f8545ca0a47f25ea6035",
+      "contactNumber": "1234567890",
+      "id": 3
+    },
+    {
+      "email": "saw@sdhd.com",
+      "password": "12q3",
+      "confirmPassword": "$2a$10$8nCy4xtxBBVGVEvKsrSVC.T2KXM10GVUnx2BBESvXf4T0kls3edFG",
+      "contactNumber": "1234567890",
+      "id": 4
+    }
+  ]
+}
